@@ -14,6 +14,6 @@ End of week 2 challenge DU bootcamp
 
 - Press the button and answer the prompts.
 
-https://jthornex.github.io/03-challenge-bootcamp/
+https://jthornex.github.io/03-challenge-bootcamp-pass/
 
 <img src="https://cdn.discordapp.com/attachments/402938917239652354/1074034111037063178/password_generator.png" alt="screenshot of the password generator">
